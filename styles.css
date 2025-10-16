@@ -1,3 +1,20 @@
+/* Strat Hide Agency Logo */
+.transition-slowest .flex-col .agency-logo-container {
+display: none !important;
+}
+.overflow-hidden .lg\:justify-between .switcher-caret-holder {
+  display: none !important 
+}
+/* Division */
+.transition-slowest .flex-col .lg\:justify-between{
+background-color:#F3F4F6 !important;
+}
+/* Overflow hidden */
+.transition-slowest .flex-col .overflow-hidden{
+padding-top:8px !important;
+}
+/* End Hide Agency Logo */
+
 #tb_clientportal { display: none !important;}
 #tb_webinars { display: none !important;}
 #tb_survey-builder { display: none !important;}
