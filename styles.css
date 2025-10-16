@@ -1,16 +1,16 @@
-.transition-slowest .flex-col .agency-logo-container {
-display: none !important;
-}
-.overflow-hidden .lg\:justify-between .switcher-caret-holder {
-  display: none !important 
-}
-
-/* Division */
-.transition-slowest .flex-col .lg\:justify-between{
-background-color:#F3F4F6 !important;
-}
-
-/* Overflow hidden */
-.transition-slowest .flex-col .overflow-hidden{
-padding-top:8px !important;
-}
+#tb_clientportal { display: none !important;}
+#tb_webinars { display: none !important;}
+#tb_survey-builder { display: none !important;}
+#tb_form-builder { display: none !important;}
+#tb_blogs { display: none !important;}
+#tb_quiz-builder { display: none !important;}
+#tb_stores { display: none !important;}
+#tb_websites { display: none !important;}
+#tb_app-marketplace { display: none !important;}
+#tb_ai-agents-content-ai { display: none !important;}
+#tb_email-builder { display: none !important;}
+#tb_email-templates { display: none !important;}
+#tb_countdown-timer { display: none !important;}
+#tb_trigger-links { display: none !important;}
+#tb_affiliate-manager { display: none !important;}
+#tb_brand-boards { display: none !important;}
